@@ -2,5 +2,6 @@
 Implementation of Deep Learning.
 
 ## Projects
-Cat/Dog classification. "\n"
+Cat/Dog classification.
+
 Zero/One classification
