@@ -1,7 +1,7 @@
 import os
+from random import shuffle
 from PIL import Image
 from array import *
-from random import shuffle
 
 # Load from and save to
 Names = [['./training-images','train'], ['./test-images','test']]
