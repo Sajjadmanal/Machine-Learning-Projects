@@ -5,3 +5,5 @@ Implementation of Deep Learning.
 Cat/Dog classification.
 
 Zero/One classification
+
+MNIST classification
