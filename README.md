@@ -7,3 +7,5 @@ Cat/Dog classification.
 Zero/One classification
 
 MNIST classification
+
+Detect Emoticon: Happy/Sad
