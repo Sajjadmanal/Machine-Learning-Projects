@@ -6,6 +6,8 @@ Cat/Dog classification.
 
 Zero/One classification
 
-MNIST classification
+MNIST classification - Under ML POC
 
 Detect Emoticon: Happy/Sad
+
+MNIST through convolution - Tensorflow
