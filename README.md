@@ -8,6 +8,6 @@ Zero/One classification
 
 MNIST classification - Under ML POC
 
-Detect Emoticon: Happy/Sad
+Emoticon Detection: Happy/Sad
 
 MNIST through convolution - Tensorflow
