@@ -4,10 +4,10 @@ Implementation of Deep Learning.
 ## Projects
 Cat/Dog classification.
 
-Zero/One classification
+Zero/One classification.
 
-MNIST classification - Under ML POC
+MNIST classification - Under ML POC.
 
-Emoticon Detection: Happy/Sad
+Emoticon Detection: Happy/Sad.
 
-MNIST through convolution - Tensorflow
+MNIST through convolution - Tensorflow.
