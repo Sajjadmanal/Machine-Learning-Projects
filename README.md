@@ -11,3 +11,5 @@ MNIST classification - Under ML POC.
 Emoticon Detection: Happy/Sad.
 
 MNIST through convolution - Tensorflow.
+
+Goal Prediction
