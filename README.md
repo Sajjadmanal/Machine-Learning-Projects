@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-Implementation of ML as well as Deep Learning.
+Implementation of Machine Learning as well as Deep Learning.
 
 ## Projects
 Cat/Dog classification.
