@@ -12,4 +12,4 @@ Emoticon Detection: Happy/Sad.
 
 MNIST through convolution - Tensorflow.
 
-Goal Prediction
+Soccer Goal Prediction.
