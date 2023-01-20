@@ -1,1 +1,1 @@
-## Deep Learning - MNIST image classification.
+## Deep Learning - MNIST Image Classification.
